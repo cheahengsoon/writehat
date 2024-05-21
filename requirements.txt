@@ -7,5 +7,5 @@ selenium
 mongo-tools
 cryptography
 django~=3.1.0
-PyMySQL==1.0.2
+PyMySQL==1.1.1
 django-python3_ldap==0.11.4
